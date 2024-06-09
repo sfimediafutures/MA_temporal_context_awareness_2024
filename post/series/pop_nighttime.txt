@@ -1,0 +1,111 @@
+
+----- output from run number 1
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12036998036063154
+avg recall: 0.6525893108757779
+avg F1: 0.19325451017208706
+mean avg precision: 0.30706460366809135
+coverage: 0.03093812375249501
+----- output from run number 2
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12036415875184711
+avg recall: 0.6525110187988162
+avg F1: 0.19324212630797902
+mean avg precision: 0.307207675369637
+coverage: 0.03093812375249501
+----- output from run number 3
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12038384948744156
+avg recall: 0.6526405741973557
+avg F1: 0.19327638571762037
+mean avg precision: 0.30702661554449606
+coverage: 0.03093812375249501
+----- output from run number 4
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12040473878955056
+avg recall: 0.6528236877039484
+avg F1: 0.19331350270295397
+mean avg precision: 0.30717674259927635
+coverage: 0.03093812375249501
+----- output from run number 5
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.1203805962354738
+avg recall: 0.6526414017172276
+avg F1: 0.19327081139232258
+mean avg precision: 0.30705505799261246
+coverage: 0.03093812375249501
+----- output from run number 6
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12041466976924171
+avg recall: 0.652897850705679
+avg F1: 0.19333077959359365
+mean avg precision: 0.3071163988153615
+coverage: 0.03093812375249501
+----- output from run number 7
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12038179480198824
+avg recall: 0.6526339414184901
+avg F1: 0.19327398998654344
+mean avg precision: 0.3070484845109592
+coverage: 0.03093812375249501
+----- output from run number 8
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12036861057032934
+avg recall: 0.6525141797060648
+avg F1: 0.19325019917325445
+mean avg precision: 0.30697378548310966
+coverage: 0.03093812375249501
+----- output from run number 9
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12038539050153158
+avg recall: 0.6527351411129261
+avg F1: 0.19328307329767377
+mean avg precision: 0.30724629648873436
+coverage: 0.03093812375249501
+----- output from run number 10
+Post filter adjustment applied: RAN BY _ALL
+test data proportion: 0.2439
+train data length: 3433328
+test data length: 1107809
+Items in train: 996
+avg precision: 0.12040388267061165
+avg recall: 0.6527573929237175
+avg F1: 0.19330874765081868
+mean avg precision: 0.30718229746170783
+coverage: 0.03093812375249501

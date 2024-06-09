@@ -1,0 +1,101 @@
+
+----- output from run number 1
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3331
+avg precision: 0.023628716767895113
+avg recall: 0.13958858241185124
+avg F1: 0.037805559746867036
+mean avg precision: 0.050193319687988264
+coverage: 0.5330108138873079
+----- output from run number 2
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3342
+avg precision: 0.02200573807116149
+avg recall: 0.12922440623987871
+avg F1: 0.03507039327078491
+mean avg precision: 0.04585278554505327
+coverage: 0.5278884462151394
+----- output from run number 3
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3338
+avg precision: 0.02261314211825555
+avg recall: 0.13307148961826246
+avg F1: 0.03611063607654498
+mean avg precision: 0.051108860006371236
+coverage: 0.5204894706886739
+----- output from run number 4
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3342
+avg precision: 0.024413277891324265
+avg recall: 0.14519357640401612
+avg F1: 0.03913818329277329
+mean avg precision: 0.05838263526030367
+coverage: 0.5230506545247581
+----- output from run number 5
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3342
+avg precision: 0.023091293620021148
+avg recall: 0.1367626767570164
+avg F1: 0.03690632184530847
+mean avg precision: 0.050989127865339524
+coverage: 0.5219123505976095
+----- output from run number 6
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3330
+avg precision: 0.02301306397939866
+avg recall: 0.13678303295062508
+avg F1: 0.036827786709882585
+mean avg precision: 0.05202284997521462
+coverage: 0.5273192942515652
+----- output from run number 7
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3327
+avg precision: 0.021459781995865443
+avg recall: 0.12472737427135391
+avg F1: 0.034051916880154735
+mean avg precision: 0.04758000479729815
+coverage: 0.5267501422879909
+----- output from run number 8
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3328
+avg precision: 0.023088111100685
+avg recall: 0.13351830850596336
+avg F1: 0.03666862083603238
+mean avg precision: 0.04789602041309852
+coverage: 0.5304496300512237
+----- output from run number 9
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3344
+avg precision: 0.0240616496199681
+avg recall: 0.1437727591808693
+avg F1: 0.03858385885114562
+mean avg precision: 0.056200290471558424
+coverage: 0.5142287990893568
+----- output from run number 10
+test data proportion: 0.25
+train data length: 454865
+test data length: 151622
+Items in train: 3347
+avg precision: 0.023399586990191023
+avg recall: 0.1379479397899908
+avg F1: 0.03741420477323346
+mean avg precision: 0.05100178948213464
+coverage: 0.5244735344336938
